@@ -1,0 +1,7 @@
+name: drawlib
+version: '${project.version}'
+main: pl.epsi.drawlib.Main
+api-version: 1.19
+commands:
+  circle:
+  ex1:
